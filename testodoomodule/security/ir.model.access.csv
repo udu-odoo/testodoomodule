@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_/home/ud/odoo/custom/testodoomodule_/home/ud/odoo/custom/testodoomodule,/home/ud/odoo/custom/testodoomodule./home/ud/odoo/custom/testodoomodule,model_/home/ud/odoo/custom/testodoomodule_/home/ud/odoo/custom/testodoomodule,base.group_user,1,1,1,1
